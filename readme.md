@@ -1,6 +1,7 @@
-- Building a scalable backend for a YouTube-like platform using Node.js, Express, and MongoDB. Features user authentication, video management, and streaming capabilities.
+# VidTube
+- Building a scalable backend for a video streaming platform using Node.js, Express, and MongoDB.
+- Features: user authentication, video management, and streaming capabilities.
 
-- Tech Stack: Node.js, Express.js, MongoDB
 
 .env file 
 
